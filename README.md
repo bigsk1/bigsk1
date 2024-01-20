@@ -1,19 +1,11 @@
 ### Hi there I'm bigsk1⚡
 
-<!--
-**bigsk1/bigsk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [My Jekyll Site](https://github.com/bigsk1/bigsk1.github.io)
 
-Here are some ideas to get you started:
+📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KratomSyndicate) 
+
 
 ---
 
@@ -42,13 +34,6 @@ Here are some ideas to get you started:
 
 
 </details>
-
-[website]: https://bigsk1.com/
-[twitter]: https://twitter.com/KratomSyndicate
-[youtube]: https://youtube.com/@bigsk1
-[dockerhub]: https://hub.docker.com/u/bigsk1
-[links]: https://links.thekratomsyndicate.com/
-
 
 
 

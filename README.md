@@ -1,4 +1,8 @@
-### Hi there I'm bigsk1⚡
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I+am+bigsk1;Welcome+to+my+Github+Profile;Make+sure+to+checkout+my+repos;If+you+find+my+work+interesting;feel+free+to+leave+a+star+⭐;No+seriously;⭐;just+smash+that+star+button+⭐;⭐;⭐⭐⭐⭐⭐;you+waiting+for+me+to+say;something+else?;⭐+⭐+⭐+⭐+⭐;anyway+I+am+taking+off+now;⭐&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</p>
+
 
 🔭 I’m currently working on [My Jekyll Site](https://github.com/bigsk1/bigsk1.github.io)
 

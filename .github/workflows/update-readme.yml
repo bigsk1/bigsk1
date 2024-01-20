@@ -3,6 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: '0 8 * * *'  # This will run the workflow every hour
+  workflow_dispatch:
 
 jobs:
   build:

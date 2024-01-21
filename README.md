@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KratomSyndicate) 
+[![Follow on X](https://img.shields.io/badge/--X?label=Twitter&logo=X&labelColor=#000000&style=social)](https://twitter.com/KratomSyndicate) 
 
 
 ---

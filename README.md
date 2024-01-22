@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [My Jekyll Site](https://github.com/bigsk1/bigsk1.github.io)
 
-📫 How to reach me:
+📫 How to reach me
 
 [![bigsk1_termsite](https://github.com/bigsk1/TermSite/raw/main/demo/sk1.jpg)](https://bigsk1.vercel.app/)
 

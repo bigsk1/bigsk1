@@ -8,8 +8,7 @@
 
 📫 How to reach me:
 
-[![Follow on X](https://img.shields.io/badge/--X?label=Twitter&logo=X&labelColor=#000000&style=social)](https://twitter.com/KratomSyndicate) 
-
+[![bigsk1_termsite](https://github.com/bigsk1/TermSite/raw/main/demo/sk1.jpg)](https://bigsk1.vercel.app/)
 
 ---
 

@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#377](https://github.com/btcpayserver/directory.btcpayserver.org/pull/377) in [btcpayserver/directory.btcpayserver.org](https://github.com/btcpayserver/directory.btcpayserver.org)
-2. 🗣 Commented on [#1498](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1498#issuecomment-1901528501) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-3. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901486481) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-4. 💪 Opened PR [#1498](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1498) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-5. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901292080) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+1. 🗣 Commented on [#38](https://github.com/Elliott-Chong/chatpdf-yt/issues/38#issuecomment-1903109583) in [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt)
+2. 🗣 Commented on [#40](https://github.com/Elliott-Chong/chatpdf-yt/issues/40#issuecomment-1903104505) in [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt)
+3. ❌ Closed PR [#377](https://github.com/btcpayserver/directory.btcpayserver.org/pull/377) in [btcpayserver/directory.btcpayserver.org](https://github.com/btcpayserver/directory.btcpayserver.org)
+4. 🗣 Commented on [#1498](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1498#issuecomment-1901528501) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+5. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901486481) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

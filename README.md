@@ -16,11 +16,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/bigsk1/TKS-GPT/pull/132) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
-2. 🎉 Merged PR [#131](https://github.com/bigsk1/TKS-GPT/pull/131) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
-3. 🎉 Merged PR [#130](https://github.com/bigsk1/TKS-GPT/pull/130) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
-4. 🎉 Merged PR [#129](https://github.com/bigsk1/TKS-GPT/pull/129) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
-5. 🗣 Commented on [#38](https://github.com/Elliott-Chong/chatpdf-yt/issues/38#issuecomment-1903109583) in [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt)
+1. 🎉 Merged PR [#7](https://github.com/bigsk1/TermSite/pull/7) in [bigsk1/TermSite](https://github.com/bigsk1/TermSite)
+2. 💪 Opened PR [#7](https://github.com/bigsk1/TermSite/pull/7) in [bigsk1/TermSite](https://github.com/bigsk1/TermSite)
+3. 🎉 Merged PR [#132](https://github.com/bigsk1/TKS-GPT/pull/132) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
+4. 🎉 Merged PR [#131](https://github.com/bigsk1/TKS-GPT/pull/131) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
+5. 🎉 Merged PR [#130](https://github.com/bigsk1/TKS-GPT/pull/130) in [bigsk1/TKS-GPT](https://github.com/bigsk1/TKS-GPT)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

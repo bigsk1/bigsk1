@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code+Cruncher+💻;Linux+Lover+🐧;AI+Enthusiast+🤖;Ubuntu+User+🖥️;WSL2+Warrior+⚙️;RTX+4090+Beast+🔥;Open+Source+Supporter+🌐;Star+Gazer+⭐;Not+Just+Any+Dev+🚀;Hit+Follow+For+Tech+Magic+✨;Always+Learning+📚;Thanks+for+visiting!+🙏&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🕵️+Can+you+decode+the+message%3F+🔍;👨‍💻+🌐+🔍+📦;🐧+🖥️+💡+🚀;🤖+🎨+🖼️+⭐;🔧+💾+📈+🌟;📚+🔄+🧠+✨;👀+🔮+🎯+🏆;🤝+💬+🌍+🔒;🚪+🔑+🎲+🎉;⏳+🛠️+🚀+🌌;👋+💖+🔔+👍&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 

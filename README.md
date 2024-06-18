@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2156153755) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-2. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2155468420) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-3. 🗣 Commented on [#4726](https://github.com/ollama/ollama/issues/4726#issuecomment-2152921060) in [ollama/ollama](https://github.com/ollama/ollama)
-4. 🗣 Commented on [#120](https://github.com/glanceapp/glance/issues/120#issuecomment-2151661041) in [glanceapp/glance](https://github.com/glanceapp/glance)
-5. 🗣 Commented on [#165](https://github.com/ItzCrazyKns/Perplexica/issues/165#issuecomment-2147241216) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+1. 🚀 Published release [Checkpoints and XTTS-v2 models to add in project directory](https://github.com/bigsk1/voice-chat-ai/releases/tag/models) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+2. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2156153755) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+3. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2155468420) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+4. 🗣 Commented on [#4726](https://github.com/ollama/ollama/issues/4726#issuecomment-2152921060) in [ollama/ollama](https://github.com/ollama/ollama)
+5. 🗣 Commented on [#120](https://github.com/glanceapp/glance/issues/120#issuecomment-2151661041) in [glanceapp/glance](https://github.com/glanceapp/glance)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

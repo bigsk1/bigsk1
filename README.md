@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/bigsk1/streamlit-app/pull/5) in [bigsk1/streamlit-app](https://github.com/bigsk1/streamlit-app)
-2. 🗣 Commented on [#2732](https://github.com/FlowiseAI/Flowise/issues/2732#issuecomment-2196604487) in [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-3. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2185371913) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
-4. 🚀 Published release [Checkpoints and XTTS-v2 models to add in project directory](https://github.com/bigsk1/voice-chat-ai/releases/tag/models) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-5. 🗣 Commented on [#152](https://github.com/ItzCrazyKns/Perplexica/pull/152#issuecomment-2155468420) in [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+1. 🎉 Merged PR [#2](https://github.com/bigsk1/project_3D_developer_portfolio/pull/2) in [bigsk1/project_3D_developer_portfolio](https://github.com/bigsk1/project_3D_developer_portfolio)
+2. 🎉 Merged PR [#1](https://github.com/bigsk1/project_3D_developer_portfolio/pull/1) in [bigsk1/project_3D_developer_portfolio](https://github.com/bigsk1/project_3D_developer_portfolio)
+3. 🎉 Merged PR [#9](https://github.com/bigsk1/TermSite/pull/9) in [bigsk1/TermSite](https://github.com/bigsk1/TermSite)
+4. 🎉 Merged PR [#8](https://github.com/bigsk1/TermSite/pull/8) in [bigsk1/TermSite](https://github.com/bigsk1/TermSite)
+5. 🎉 Merged PR [#6](https://github.com/bigsk1/streamlit-app/pull/6) in [bigsk1/streamlit-app](https://github.com/bigsk1/streamlit-app)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

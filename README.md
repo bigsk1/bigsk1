@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#40](https://github.com/frdel/agent-zero/issues/40) in [frdel/agent-zero](https://github.com/frdel/agent-zero)
-2. 🗣 Commented on [#14240](https://github.com/docker/for-win/issues/14240#issuecomment-2277317483) in [docker/for-win](https://github.com/docker/for-win)
-3. 🗣 Commented on [#13806](https://github.com/docker/for-win/issues/13806#issuecomment-2274901042) in [docker/for-win](https://github.com/docker/for-win)
-4. 🗣 Commented on [#14240](https://github.com/docker/for-win/issues/14240#issuecomment-2274882841) in [docker/for-win](https://github.com/docker/for-win)
-5. ❗ Opened issue [#40](https://github.com/frdel/agent-zero/issues/40) in [frdel/agent-zero](https://github.com/frdel/agent-zero)
+1. 🔒 Closed issue [#2](https://github.com/bigsk1/voice-chat-ai/issues/2) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+2. 🗣 Commented on [#2](https://github.com/bigsk1/voice-chat-ai/issues/2#issuecomment-2316683528) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+3. 🔒 Closed issue [#40](https://github.com/frdel/agent-zero/issues/40) in [frdel/agent-zero](https://github.com/frdel/agent-zero)
+4. 🗣 Commented on [#14240](https://github.com/docker/for-win/issues/14240#issuecomment-2277317483) in [docker/for-win](https://github.com/docker/for-win)
+5. 🗣 Commented on [#13806](https://github.com/docker/for-win/issues/13806#issuecomment-2274901042) in [docker/for-win](https://github.com/docker/for-win)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

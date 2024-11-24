@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/bigsk1/gpu-monitor/issues/3) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-2. ❗ Opened issue [#3](https://github.com/bigsk1/gpu-monitor/issues/3) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-3. 🎉 Merged PR [#6](https://github.com/bigsk1/voice-chat-ai/pull/6) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-4. 🔒 Closed issue [#4](https://github.com/bigsk1/voice-chat-ai/issues/4) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-5. 🔒 Closed issue [#1](https://github.com/bigsk1/gpu-monitor/issues/1) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+1. 🔒 Closed issue [#1](https://github.com/bigsk1/podcast-ai/issues/1) in [bigsk1/podcast-ai](https://github.com/bigsk1/podcast-ai)
+2. ❗ Opened issue [#1](https://github.com/bigsk1/podcast-ai/issues/1) in [bigsk1/podcast-ai](https://github.com/bigsk1/podcast-ai)
+3. 🔒 Closed issue [#3](https://github.com/bigsk1/gpu-monitor/issues/3) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+4. ❗ Opened issue [#3](https://github.com/bigsk1/gpu-monitor/issues/3) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+5. 🎉 Merged PR [#6](https://github.com/bigsk1/voice-chat-ai/pull/6) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

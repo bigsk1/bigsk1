@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/bigsk1/ai-screen-analyzer/pull/8) in [bigsk1/ai-screen-analyzer](https://github.com/bigsk1/ai-screen-analyzer)
-2. 🎉 Merged PR [#3](https://github.com/bigsk1/claude-plus/pull/3) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
-3. 🎉 Merged PR [#2](https://github.com/bigsk1/claude-plus/pull/2) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
-4. 🎉 Merged PR [#1](https://github.com/bigsk1/claude-plus/pull/1) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
-5. 🚀 Published release [Version 20241129-993913c](https://github.com/bigsk1/podcast-ai/releases/tag/v1.0.0) in [bigsk1/podcast-ai](https://github.com/bigsk1/podcast-ai)
+1. 🎉 Merged PR [#9](https://github.com/bigsk1/ai-screen-analyzer/pull/9) in [bigsk1/ai-screen-analyzer](https://github.com/bigsk1/ai-screen-analyzer)
+2. 🎉 Merged PR [#8](https://github.com/bigsk1/ai-screen-analyzer/pull/8) in [bigsk1/ai-screen-analyzer](https://github.com/bigsk1/ai-screen-analyzer)
+3. 🎉 Merged PR [#3](https://github.com/bigsk1/claude-plus/pull/3) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
+4. 🎉 Merged PR [#2](https://github.com/bigsk1/claude-plus/pull/2) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
+5. 🎉 Merged PR [#1](https://github.com/bigsk1/claude-plus/pull/1) in [bigsk1/claude-plus](https://github.com/bigsk1/claude-plus)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

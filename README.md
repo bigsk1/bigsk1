@@ -29,8 +29,8 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Netflix Codes - Docker release](https://github.com/bigsk1/netflix-codes/releases/tag/20250222-e892e12) in [bigsk1/netflix-codes](https://github.com/bigsk1/netflix-codes)
-2. 🗣 Commented on [#5956](https://github.com/pi-hole/pi-hole/issues/5956#issuecomment-2675864330) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+1. 🗣 Commented on [#30](https://github.com/coleam00/Archon/issues/30#issuecomment-2693564680) in [coleam00/Archon](https://github.com/coleam00/Archon)
+2. 🚀 Published release [Netflix Codes - Docker release](https://github.com/bigsk1/netflix-codes/releases/tag/20250222-e892e12) in [bigsk1/netflix-codes](https://github.com/bigsk1/netflix-codes)
 3. ❗ Opened issue [#5948](https://github.com/pi-hole/pi-hole/issues/5948) in [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
 4. ❗ Opened issue [#306](https://github.com/idiap/coqui-ai-TTS/issues/306) in [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS)
 5. 🗣 Commented on [#11](https://github.com/bigsk1/voice-chat-ai/pull/11#issuecomment-2670142070) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)

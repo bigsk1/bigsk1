@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/coleam00/Archon/issues/34) in [coleam00/Archon](https://github.com/coleam00/Archon)
-2. 🗣 Commented on [#30](https://github.com/coleam00/Archon/issues/30#issuecomment-2696096698) in [coleam00/Archon](https://github.com/coleam00/Archon)
-3. 🗣 Commented on [#33](https://github.com/coleam00/Archon/issues/33#issuecomment-2696085475) in [coleam00/Archon](https://github.com/coleam00/Archon)
-4. 🗣 Commented on [#30](https://github.com/coleam00/Archon/issues/30#issuecomment-2693564680) in [coleam00/Archon](https://github.com/coleam00/Archon)
-5. 🗣 Commented on [#11](https://github.com/bigsk1/voice-chat-ai/pull/11#issuecomment-2670142070) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+1. 🗣 Commented on [#34](https://github.com/coleam00/Archon/issues/34#issuecomment-2696445478) in [coleam00/Archon](https://github.com/coleam00/Archon)
+2. ❗ Opened issue [#34](https://github.com/coleam00/Archon/issues/34) in [coleam00/Archon](https://github.com/coleam00/Archon)
+3. 🗣 Commented on [#30](https://github.com/coleam00/Archon/issues/30#issuecomment-2696096698) in [coleam00/Archon](https://github.com/coleam00/Archon)
+4. 🗣 Commented on [#33](https://github.com/coleam00/Archon/issues/33#issuecomment-2696085475) in [coleam00/Archon](https://github.com/coleam00/Archon)
+5. 🗣 Commented on [#30](https://github.com/coleam00/Archon/issues/30#issuecomment-2693564680) in [coleam00/Archon](https://github.com/coleam00/Archon)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

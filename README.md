@@ -29,11 +29,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/bigsk1/btc-mempool-ai/issues/1) in [bigsk1/btc-mempool-ai](https://github.com/bigsk1/btc-mempool-ai)
-2. 🗣 Commented on [#43](https://github.com/coleam00/Archon/pull/43#issuecomment-2711013104) in [coleam00/Archon](https://github.com/coleam00/Archon)
-3. 🗣 Commented on [#6](https://github.com/bigsk1/gpu-monitor/issues/6#issuecomment-2708769851) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-4. 🗣 Commented on [#6](https://github.com/bigsk1/gpu-monitor/issues/6#issuecomment-2708597977) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-5. 🗣 Commented on [#5](https://github.com/bigsk1/gpu-monitor/issues/5#issuecomment-2708595853) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+1. ❌ Closed PR [#43](https://github.com/coleam00/Archon/pull/43) in [coleam00/Archon](https://github.com/coleam00/Archon)
+2. 🔒 Closed issue [#1](https://github.com/bigsk1/btc-mempool-ai/issues/1) in [bigsk1/btc-mempool-ai](https://github.com/bigsk1/btc-mempool-ai)
+3. 🗣 Commented on [#43](https://github.com/coleam00/Archon/pull/43#issuecomment-2711013104) in [coleam00/Archon](https://github.com/coleam00/Archon)
+4. 🗣 Commented on [#6](https://github.com/bigsk1/gpu-monitor/issues/6#issuecomment-2708769851) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+5. 🗣 Commented on [#6](https://github.com/bigsk1/gpu-monitor/issues/6#issuecomment-2708597977) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

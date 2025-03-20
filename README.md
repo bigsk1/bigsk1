@@ -8,7 +8,9 @@
 
 📫 How to reach me
 
-[![bigsk1_termsite](https://github.com/bigsk1/TermSite/raw/main/demo/sk1.jpg)](https://bigsk1.vercel.app/)
+![bigsk1_termsite](https://github.com/user-attachments/assets/01e96b48-ef38-45be-aa55-06eb7ec4cdbf)
+
+
 
 ---
 Here's a breakdown of the meanings behind these emoji sequences:

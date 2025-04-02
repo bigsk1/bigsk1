@@ -31,11 +31,11 @@ Here's a breakdown of the meanings behind these emoji sequences:
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/bigsk1/supa-crawl-chat/pull/8) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
-2. 🗣 Commented on [#7](https://github.com/bigsk1/gpu-monitor/issues/7#issuecomment-2765978226) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-3. 🔒 Closed issue [#5](https://github.com/bigsk1/gpu-monitor/issues/5) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-4. 🔒 Closed issue [#6](https://github.com/bigsk1/gpu-monitor/issues/6) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-5. 🎉 Merged PR [#7](https://github.com/bigsk1/supa-crawl-chat/pull/7) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+1. 🗣 Commented on [#1680](https://github.com/coqui-ai/TTS/issues/1680#issuecomment-2771123727) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+2. 🎉 Merged PR [#8](https://github.com/bigsk1/supa-crawl-chat/pull/8) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+3. 🗣 Commented on [#7](https://github.com/bigsk1/gpu-monitor/issues/7#issuecomment-2765978226) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+4. 🔒 Closed issue [#5](https://github.com/bigsk1/gpu-monitor/issues/5) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+5. 🔒 Closed issue [#6](https://github.com/bigsk1/gpu-monitor/issues/6) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

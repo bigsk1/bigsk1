@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🕵️+Can+you+decode+the+message%3F+🔍;👨‍💻+🌐+🔍+📦;🐧+🖥️+💡+🚀;🤖+🎨+🖼️+⭐;🔧+💾+📈+🌟;📚+🔄+🧠+✨;👀+🔮+🎯+🏆;🤝+💬+🌍+🔒;🚪+🔑+🎲+🎉;⏳+🛠️+🚀+🌌;👋+💖+🔔+👍&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
-</p>
-
 
 
 🔭 I’m currently working on [My Jekyll Site](https://github.com/bigsk1/bigsk1.github.io)
@@ -11,21 +7,6 @@
 ![bigsk1_termsite](https://github.com/user-attachments/assets/01e96b48-ef38-45be-aa55-06eb7ec4cdbf)
 
 
-
----
-Here's a breakdown of the meanings behind these emoji sequences:
-
-    👨‍💻 🌐 🔍 📦 - A developer exploring the web for packages.
-    🐧 🖥️ 💡 🚀 - Linux and computer innovation launching new projects.
-    🤖 🎨 🖼️ ⭐ - AI creating art and earning recognition.
-    🔧 💾 📈 🌟 - Tools and data driving growth and success.
-    📚 🔄 🧠 ✨ - Continuous learning and intellectual development.
-    👀 🔮 🎯 🏆 - Visionary goals achieving excellence.
-    🤝 💬 🌍 🔒 - Global communication and secure connections.
-    🚪 🔑 🎲 🎉 - Unlocking opportunities and celebrating achievements.
-    ⏳ 🛠️ 🚀 🌌 - Time, tools, and exploration beyond the stars.
-    👋 💖 🔔 👍 - Welcoming engagement and positive feedback.
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>

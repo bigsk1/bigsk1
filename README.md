@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/bigsk1/bigsk1.github.io/pull/12) in [bigsk1/bigsk1.github.io](https://github.com/bigsk1/bigsk1.github.io)
-2. ❌ Closed PR [#27](https://github.com/bigsk1/yt-webui/pull/27) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
-3. 🎉 Merged PR [#27](https://github.com/bigsk1/voice-chat-ai/pull/27) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-4. ❌ Closed PR [#26](https://github.com/bigsk1/voice-chat-ai/pull/26) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-5. 🗣 Commented on [#10](https://github.com/bigsk1/gpu-monitor/issues/10#issuecomment-3043671549) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
+1. 🎉 Merged PR [#28](https://github.com/bigsk1/yt-webui/pull/28) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
+2. 🎉 Merged PR [#27](https://github.com/bigsk1/yt-webui/pull/27) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
+3. ❌ Reopened PR [#27](https://github.com/bigsk1/yt-webui/pull/27) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
+4. 🎉 Merged PR [#12](https://github.com/bigsk1/bigsk1.github.io/pull/12) in [bigsk1/bigsk1.github.io](https://github.com/bigsk1/bigsk1.github.io)
+5. ❌ Closed PR [#27](https://github.com/bigsk1/yt-webui/pull/27) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

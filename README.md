@@ -12,10 +12,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/bigsk1/gpu-monitor/issues/10) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-2. 🗣 Commented on [#11](https://github.com/bigsk1/gpu-monitor/issues/11#issuecomment-3325671224) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-3. ❌ Closed PR [#1](undefined) in [bigsk1/xai-api](https://github.com/bigsk1/xai-api)
-4. 🎉 Merged PR [#36](https://github.com/bigsk1/yt-webui/pull/36) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
+1. 🔒 Closed issue [#1](https://github.com/bigsk1/opencode-doc/issues/1) in [bigsk1/opencode-doc](https://github.com/bigsk1/opencode-doc)
+2. 🗣 Commented on [#1](https://github.com/bigsk1/opencode-doc/issues/1#issuecomment-3497772069) in [bigsk1/opencode-doc](https://github.com/bigsk1/opencode-doc)
+3. 🗣 Commented on [#1](https://github.com/bigsk1/opencode-doc/issues/1#issuecomment-3497630686) in [bigsk1/opencode-doc](https://github.com/bigsk1/opencode-doc)
+4. ❗ Opened issue [#1](https://github.com/bigsk1/opencode-doc/issues/1) in [bigsk1/opencode-doc](https://github.com/bigsk1/opencode-doc)
 5. 🎉 Merged PR [#35](https://github.com/bigsk1/yt-webui/pull/35) in [bigsk1/yt-webui](https://github.com/bigsk1/yt-webui)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/bigsk1/gpu-monitor/issues/12) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-2. 🔒 Closed issue [#11](https://github.com/bigsk1/gpu-monitor/issues/11) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
-3. 🔒 Closed issue [#39](https://github.com/bigsk1/voice-chat-ai/issues/39) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-4. 🗣 Commented on [#39](https://github.com/bigsk1/voice-chat-ai/issues/39#issuecomment-3946917567) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-5. 🔒 Closed issue [#33](https://github.com/bigsk1/voice-chat-ai/issues/33) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+1. 🔒 Closed issue [#1](https://github.com/bigsk1/openai-realtime-ui/issues/1) in [bigsk1/openai-realtime-ui](https://github.com/bigsk1/openai-realtime-ui)
+2. 🎉 Merged PR [#2](https://github.com/bigsk1/openai-realtime-ui/pull/2) in [bigsk1/openai-realtime-ui](https://github.com/bigsk1/openai-realtime-ui)
+3. 💪 Opened PR [#2](https://github.com/bigsk1/openai-realtime-ui/pull/2) in [bigsk1/openai-realtime-ui](https://github.com/bigsk1/openai-realtime-ui)
+4. 🗣 Commented on [#1](https://github.com/bigsk1/openai-realtime-ui/issues/1#issuecomment-4116969656) in [bigsk1/openai-realtime-ui](https://github.com/bigsk1/openai-realtime-ui)
+5. 🔒 Closed issue [#12](https://github.com/bigsk1/gpu-monitor/issues/12) in [bigsk1/gpu-monitor](https://github.com/bigsk1/gpu-monitor)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

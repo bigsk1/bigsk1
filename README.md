@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/bigsk1/supa-crawl-chat/issues/25) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
-2. 🗣 Commented on [#25](https://github.com/bigsk1/supa-crawl-chat/issues/25#issuecomment-4699416715) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
-3. ❌ Closed PR [#59](https://github.com/bigsk1/voice-chat-ai/pull/59) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-4. 🚀 Published release [v1.3.0](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.3.0) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-5. 🗣 Commented on [#47](https://github.com/bigsk1/voice-chat-ai/pull/47#issuecomment-4506115483) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+1. 🗣 Commented on [#27](https://github.com/bigsk1/supa-crawl-chat/issues/27#issuecomment-4703282868) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+2. 🔒 Closed issue [#61](https://github.com/bigsk1/voice-chat-ai/issues/61) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+3. 🔒 Closed issue [#25](https://github.com/bigsk1/supa-crawl-chat/issues/25) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+4. 🗣 Commented on [#25](https://github.com/bigsk1/supa-crawl-chat/issues/25#issuecomment-4699416715) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+5. ❌ Closed PR [#59](https://github.com/bigsk1/voice-chat-ai/pull/59) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#457](https://github.com/miguelgrinberg/python-engineio/issues/457) in [miguelgrinberg/python-engineio](https://github.com/miguelgrinberg/python-engineio)
-2. 🚀 Published release [v2.53.1](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.53.1) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-3. 🚀 Published release [v2.52.0](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.52.0) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-4. ❌ Closed PR [#4](https://github.com/bigsk1/x-terminal/pull/4) in [bigsk1/x-terminal](https://github.com/bigsk1/x-terminal)
-5. 🗣 Commented on [#27](https://github.com/bigsk1/supa-crawl-chat/issues/27#issuecomment-4711393198) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
+1. 🚀 Published release [v2.54.1](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.54.1) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
+2. ❗ Opened issue [#457](https://github.com/miguelgrinberg/python-engineio/issues/457) in [miguelgrinberg/python-engineio](https://github.com/miguelgrinberg/python-engineio)
+3. 🚀 Published release [v2.53.1](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.53.1) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
+4. 🚀 Published release [v2.52.0](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.52.0) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
+5. ❌ Closed PR [#4](https://github.com/bigsk1/x-terminal/pull/4) in [bigsk1/x-terminal](https://github.com/bigsk1/x-terminal)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

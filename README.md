@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#64](https://github.com/bigsk1/voice-chat-ai/pull/64) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-2. 🗣 Commented on [#64](https://github.com/bigsk1/voice-chat-ai/pull/64#issuecomment-5150926996) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-3. 🚀 Published release [v1.4.0](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.4.0) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-4. 🎉 Merged PR [#3](https://github.com/bigsk1/matrix-crypto/pull/3) in [bigsk1/matrix-crypto](https://github.com/bigsk1/matrix-crypto)
-5. 💪 Opened PR [#3](https://github.com/bigsk1/matrix-crypto/pull/3) in [bigsk1/matrix-crypto](https://github.com/bigsk1/matrix-crypto)
+1. 💪 Opened PR [#3](https://github.com/bigsk1/jarvis-voice/pull/3) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
+2. ❌ Closed PR [#64](https://github.com/bigsk1/voice-chat-ai/pull/64) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+3. 🗣 Commented on [#64](https://github.com/bigsk1/voice-chat-ai/pull/64#issuecomment-5150926996) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+4. 🚀 Published release [v1.4.0](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.4.0) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+5. 🎉 Merged PR [#3](https://github.com/bigsk1/matrix-crypto/pull/3) in [bigsk1/matrix-crypto](https://github.com/bigsk1/matrix-crypto)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

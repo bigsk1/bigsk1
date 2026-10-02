@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Jarvis Companion 0.6.0](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.6.0) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
-2. 🚀 Published release [v1.4.1](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.4.1) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
-3. 🚀 Published release [Jarvis Companion 0.5.2](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.5.2) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
-4. 🚀 Published release [v2.55.10](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.55.10) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-5. 🚀 Published release [Jarvis Companion 0.4.0](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.4.0) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
+1. 🚀 Published release [Container Proxy 1.1.0](https://github.com/bigsk1/container-proxy/releases/tag/v1.1.0) in [bigsk1/container-proxy](https://github.com/bigsk1/container-proxy)
+2. 🚀 Published release [Jarvis Companion 0.6.0](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.6.0) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
+3. 🚀 Published release [v1.4.1](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.4.1) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+4. 🚀 Published release [Jarvis Companion 0.5.2](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.5.2) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
+5. 🚀 Published release [v2.55.10](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.55.10) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

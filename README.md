@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.56.1](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.56.1) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-2. 🚀 Published release [v2.56.0](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.56.0) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-3. 🚀 Published release [Container Proxy 1.1.0](https://github.com/bigsk1/container-proxy/releases/tag/v1.1.0) in [bigsk1/container-proxy](https://github.com/bigsk1/container-proxy)
-4. 🚀 Published release [Jarvis Companion 0.6.0](https://github.com/bigsk1/jarvis-firefox-extension/releases/tag/v0.6.0) in [bigsk1/jarvis-firefox-extension](https://github.com/bigsk1/jarvis-firefox-extension)
-5. 🚀 Published release [v1.4.1](https://github.com/bigsk1/voice-chat-ai/releases/tag/v1.4.1) in [bigsk1/voice-chat-ai](https://github.com/bigsk1/voice-chat-ai)
+1. ❌ Closed PR [#5](https://github.com/bigsk1/easy-mouse-connect/pull/5) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
+2. ❌ Closed PR [#4](https://github.com/bigsk1/easy-mouse-connect/pull/4) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
+3. ❌ Closed PR [#3](https://github.com/bigsk1/easy-mouse-connect/pull/3) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
+4. ❌ Closed PR [#2](https://github.com/bigsk1/easy-mouse-connect/pull/2) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
+5. ❌ Closed PR [#1](https://github.com/bigsk1/easy-mouse-connect/pull/1) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

@@ -12,11 +12,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.56.3](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.56.3) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
-2. 🚀 Published release [Container Proxy 1.1.1](https://github.com/bigsk1/container-proxy/releases/tag/v1.1.1) in [bigsk1/container-proxy](https://github.com/bigsk1/container-proxy)
-3. 🔒 Closed issue [#27](https://github.com/bigsk1/supa-crawl-chat/issues/27) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
-4. 🎉 Merged PR [#7](https://github.com/bigsk1/easy-mouse-connect/pull/7) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
-5. 💪 Opened PR [#7](https://github.com/bigsk1/easy-mouse-connect/pull/7) in [bigsk1/easy-mouse-connect](https://github.com/bigsk1/easy-mouse-connect)
+1. 🎉 Merged PR [#1](https://github.com/bigsk1/prompt-guard/pull/1) in [bigsk1/prompt-guard](https://github.com/bigsk1/prompt-guard)
+2. 💪 Opened PR [#1](https://github.com/bigsk1/prompt-guard/pull/1) in [bigsk1/prompt-guard](https://github.com/bigsk1/prompt-guard)
+3. 🚀 Published release [v2.56.3](https://github.com/bigsk1/jarvis-voice/releases/tag/v2.56.3) in [bigsk1/jarvis-voice](https://github.com/bigsk1/jarvis-voice)
+4. 🚀 Published release [Container Proxy 1.1.1](https://github.com/bigsk1/container-proxy/releases/tag/v1.1.1) in [bigsk1/container-proxy](https://github.com/bigsk1/container-proxy)
+5. 🔒 Closed issue [#27](https://github.com/bigsk1/supa-crawl-chat/issues/27) in [bigsk1/supa-crawl-chat](https://github.com/bigsk1/supa-crawl-chat)
 6. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901283978) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 7. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901185875) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 8. 🗣 Commented on [#1497](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1497#issuecomment-1901178957) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
